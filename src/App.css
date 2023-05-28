@@ -1,0 +1,307 @@
+@media print {
+  .hide-on-print {
+    display: none;
+  }
+}
+
+
+.bar{
+  background-color:pink;
+  height:80px;
+  width:100%;
+  margin-top:-8px;
+  margin-left:-8px;
+  position:absolute;
+}
+
+.inputs{
+  margin-top:20px;
+  position:flex;
+  color:black;
+}
+
+#title{
+  margin-left:580px;
+  font-family:algerian;
+}
+
+#back{
+  background-color:yellow;
+  height:1200px;
+  position:absolute;
+  margin-top:80px;
+  display:flex;
+  width: 100%;
+}
+
+#back2{
+  background-color: yellow;
+  height:500px;
+  position:absolute;
+  margin-top:80px;
+  display:flex;
+  width: 100%;
+}
+
+.fields{
+  border-radius:5px;
+  height:20px;
+  width:375px;
+  border:none;
+  padding:10px;
+  margin-left: 25px;
+  text-align: center;
+}
+
+#filefield{
+  border-radius:5px;
+  height:20px;
+  width:375px;
+  padding:11px;
+  margin-left: 25px;
+  text-align: center;
+  color:blue;
+  background-color: whitesmoke;
+
+}
+
+
+#title2{
+  margin-left:430px;
+  font-family:algerian;
+}
+
+
+
+
+
+#title3{
+  margin-left:500px;
+  font-family:algerian;
+}
+
+#fieldslang{
+  border-radius:5px;
+  height:20px;
+  width:375px;
+  border:none;
+  padding:10px;
+  margin-left: 200px;
+  text-align: center;
+  margin-right:-110px;
+}
+
+
+#title4{
+  margin-left:560px;
+  font-family:algerian;
+}
+
+#fieldsexp{
+  border-radius:5px;
+  height:20px;
+  width:375px;
+  border:none;
+  padding:10px;
+  margin-left: 430px;
+  text-align: center;
+
+}
+
+.generate-button{
+  background-color:rgb(0, 0, 0);
+  border-radius:10px;
+  color:white;
+  height:50px;
+  width:170px;
+  position:absolute;
+  margin-left:550px;
+  cursor:pointer;
+}
+
+#footer{
+  background-color:pink;
+  height:80px;
+  width:100%;
+  margin-top:1200px;
+  margin-left:-8px;
+  position:absolute;
+  color:black;
+}
+
+#foot{
+  text-align:center;
+  font-family: algerian;
+}
+
+.verticalbar{
+
+  background-color:pink;
+  width:295px;
+  height:1100px;
+  margin-top:-21px;
+  margin-left:-8px;
+  width:295px;
+  height:1100px;
+  margin-top:-21px;
+  margin-left:-8px;
+}
+
+.profile{
+  color:black;
+  font-size:20px;
+  text-align:center;
+  font-family: 'Times New Roman';
+
+}
+
+.contactme{
+  color:darkblue;
+  position:absolute;
+  margin-top:-300px;
+  margin-left:43px;
+  font-size: 20px;
+
+}
+
+.contactalign{
+  margin-left:-40px;
+  font-family: 'Times New Roman';
+
+
+
+}
+
+
+.fullname{
+  color:black;
+  font-size:40px;
+  position: absolute;
+  margin-left:420px;
+  margin-top:40px;
+  font-family: 'Times New Roman';
+}
+
+#hr{
+  width:450px;
+  position:relative;
+  margin-left:-26px;
+  margin-top:-850px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+}
+
+.educational{
+  margin-left:280px;
+  margin-top:-650px;
+  color:darkblue;
+  font-family: algerian;
+  font-size: 25px;
+}
+
+#gyear{
+  margin-top:-24px;
+  margin-left:13px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+}
+
+#pyear{
+  margin-top:-23px;
+  margin-left:13px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+
+}
+
+#uni{
+  margin-top:-10px;
+  margin-left:13px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+  
+}
+
+#clg{
+  margin-top:-15px;
+  margin-left:13px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+  
+}
+
+.language{
+  color:darkblue;
+  margin-left:280px;
+  margin-top:77px;
+  font-family: algerian;
+  font-size: 25px;
+}
+
+#language{
+  margin-left:13px;
+  margin-top:-21px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+
+}
+
+
+.courses{
+  margin-top:500px;
+  color:darkblue;
+  margin-top:77px;
+  margin-left:280px ;
+  font-family: algerian;
+  font-size: 25px;
+}
+
+#c{
+  margin-left:15px;
+  margin-top:-20px;
+  color: black;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+
+}
+
+.skills{
+  color:darkblue;
+  margin-left:280px;
+  margin-top:77px;
+  font-family: algerian;
+  font-size: 25px;
+}
+
+#s{
+  color:black;
+  margin-left:15px;
+  margin-top:-25px;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+}
+
+.generate-button2{
+  background-color:darkblue;
+  border-radius:13px;
+  color:white;
+  height:50px;
+  width:170px;
+  position:absolute;
+  margin-left:500px;
+  cursor:pointer;
+  margin-top:50px;
+    font-family: algerian;
+}
